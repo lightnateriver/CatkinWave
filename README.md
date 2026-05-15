@@ -25,6 +25,8 @@ Inspired by the wave of drifting catkins, CatkinWave builds cross-modal feature 
   - DFlash 在 vLLM 中的技术方案、运行时链路与上下文 KV 预写机制说明。
 - [docs/multimodal_upgrade_schemes.md](docs/multimodal_upgrade_schemes.md)
   - CatkinWave 多模态升级方案，包含 4 个候选路线、数据流字符图、改动点与推荐顺序。
+- [docs/ddtree_vs_dflash.md](docs/ddtree_vs_dflash.md)
+  - DDTree 与 DFlash 的异同分析，以及 CatkinWave 面向多线并行验证的推荐技术路线。
 
 ## 当前判断
 
